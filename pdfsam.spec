@@ -5,7 +5,7 @@ Release:	1
 Summary:	PDF Split And Merge
 Group:		Publishing
 License:	GPLv2
-URL:		http://www.pdfsam.org
+URL:		https://www.pdfsam.org
 Source0:	http://sourceforge.net/projects/pdfsam/files/pdfsam-enhanced/%{version}/pdfsam-%{version}-out-src.zip
 BuildArch:	noarch
 BuildRequires:	ant
